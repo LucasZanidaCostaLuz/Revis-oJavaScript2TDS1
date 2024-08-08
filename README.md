@@ -7,3 +7,7 @@ Contexto: A cada 3 ingressos comprados, o cliente ganha uma porção de batatas 
 # Exercício aula 2
 
 Uma banda de música está se apresentando e a plateia está super animada! Você precisa criar um programa que simule os aplausos da plateia, exibindo no console uma sequência de palmas "👏" de acordo com a intensidade escolhida pelo usuário.
+
+# Exercício aula 3
+
+Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs.
