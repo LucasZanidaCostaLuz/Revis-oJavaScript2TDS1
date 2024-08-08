@@ -11,7 +11,7 @@ ordemAtaque.push(arsenal[1]);
 
 for (let i = 0; i < ordemAtaque.length; i++) {    
     if(i == 0){
-        console.log('meu nome é ', ordemAtaque[i]);
+        console.log('meu nome é', ordemAtaque[i]);
     } else {
         console.log('Ataque', i, ordemAtaque[i]);
     }
